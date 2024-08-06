@@ -1,0 +1,36 @@
+
+
+.booking-confirmation {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background-color:white;
+    font-family: 'Arial', sans-serif;
+}
+
+.booking-confirmation h2 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.booking-confirmation p {
+    font-size: 18px;
+    color: #555;
+    margin: 10px 0;
+}
+
+.booking-confirmation .booking-id {
+    font-size: 20px;
+    font-weight: bold;
+    color: #007bff;
+    text-align: center;
+    margin: 20px 0;
+    background-color: #f0f8ff;
+    padding: 10px;
+    border-radius: 5px;
+}
